@@ -19,6 +19,7 @@
   "homepage": "https://github.com/jshlfts32/cli-hangman#readme",
   "dependencies": {
     "inquirer": "^3.3.0",
+    "moviedb": "^0.2.10",
     "prompt": "^1.0.0"
   }
 }
